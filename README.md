@@ -1,6 +1,5 @@
 # From Logic to AI
-### Building a Tic Tac Toe AI from scratch — no libraries, no shortcuts, just pure logic.
-
+### Building a Tic Tac Toe AI from scratch — using pure python and logic.
 ---
 
 ## What is this?
